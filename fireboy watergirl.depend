@@ -1,0 +1,701 @@
+# depslib dependency file v1.0
+1745250506 source:c:\fireboy watergirl\main.cpp
+	"game.h"
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\miniz.c
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\freefuncs.cpp
+	"miniz.h"
+	<zlib.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Types.hpp>
+	<tmxlite/detail/Log.hpp>
+	<cstring>
+	<fstream>
+
+1744256102 c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\miniz.h
+	"miniz.c"
+
+1744256102 c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\miniz.c
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\imagelayer.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\detail\pugixml.hpp
+	"pugiconfig.hpp"
+	<stddef.h>
+	<exception>
+	<iterator>
+	<iosfwd>
+	<string>
+
+1744256102 c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\detail\pugiconfig.hpp
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\layergroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\map.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Map.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/detail/Android.hpp>
+	<queue>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\object.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Object.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Map.hpp>
+	<tmxlite/Tileset.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\objectgroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\objecttypes.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectTypes.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\property.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Property.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/FreeFuncs.hpp>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\tilelayer.cpp
+	<pugixml.hpp>
+	<zstd.h>
+	"detail/pugixml.hpp"
+	<zstd.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\tileset.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Tileset.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+	<ctype.h>
+
+1744256102 source:c:\users\admin\downloads\tmxlite-master\tmxlite-master\tmxlite\src\detail\pugixml.cpp
+	"pugixml.hpp"
+	<tmxlite/detail/Android.hpp>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<wchar.h>
+	<math.h>
+	<float.h>
+	<setjmp.h>
+	<istream>
+	<ostream>
+	<string>
+	<new>
+	<stdint.h>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\detail\pugixml.cpp
+	"pugixml.hpp"
+	<tmxlite/detail/Android.hpp>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<wchar.h>
+	<math.h>
+	<float.h>
+	<setjmp.h>
+	<istream>
+	<ostream>
+	<string>
+	<new>
+	<stdint.h>
+
+1744256102 c:\fireboy watergirl\tmxlite-master\tmxlite\src\detail\pugixml.hpp
+	"pugiconfig.hpp"
+	<stddef.h>
+	<exception>
+	<iterator>
+	<iosfwd>
+	<string>
+
+1744256102 c:\fireboy watergirl\tmxlite-master\tmxlite\src\detail\pugiconfig.hpp
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\freefuncs.cpp
+	"miniz.h"
+	<zlib.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Types.hpp>
+	<tmxlite/detail/Log.hpp>
+	<cstring>
+	<fstream>
+
+1744256102 c:\fireboy watergirl\tmxlite-master\tmxlite\src\miniz.h
+	"miniz.c"
+
+1744256102 c:\fireboy watergirl\tmxlite-master\tmxlite\src\miniz.c
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\imagelayer.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\layergroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\map.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Map.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/detail/Android.hpp>
+	<queue>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\miniz.c
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\object.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Object.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Map.hpp>
+	<tmxlite/Tileset.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\objectgroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\objecttypes.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectTypes.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\property.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Property.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/FreeFuncs.hpp>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\tilelayer.cpp
+	<pugixml.hpp>
+	<zstd.h>
+	"detail/pugixml.hpp"
+	<zstd.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744256102 source:c:\fireboy watergirl\tmxlite-master\tmxlite\src\tileset.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Tileset.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+	<ctype.h>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\detail\pugixml.cpp
+	"pugixml.hpp"
+	<tmxlite/detail/Android.hpp>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<wchar.h>
+	<math.h>
+	<float.h>
+	<setjmp.h>
+	<istream>
+	<ostream>
+	<string>
+	<new>
+	<stdint.h>
+
+1744445467 c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\detail\pugixml.hpp
+	"pugiconfig.hpp"
+	<stddef.h>
+	<exception>
+	<iterator>
+	<iosfwd>
+	<string>
+
+1744445467 c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\detail\pugiconfig.hpp
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\freefuncs.cpp
+	"miniz.h"
+	<zlib.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Types.hpp>
+	<tmxlite/detail/Log.hpp>
+	<cstring>
+	<fstream>
+
+1744445467 c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\miniz.h
+	"miniz.c"
+
+1744445467 c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\miniz.c
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\imagelayer.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\layergroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\map.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Map.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/detail/Android.hpp>
+	<queue>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\miniz.c
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\object.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Object.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Map.hpp>
+	<tmxlite/Tileset.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\objectgroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\objecttypes.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectTypes.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\property.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Property.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/FreeFuncs.hpp>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\tilelayer.cpp
+	<pugixml.hpp>
+	<zstd.h>
+	"detail/pugixml.hpp"
+	<zstd.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744445467 source:c:\fireboy watergirl\tmxlite-master (1)\tmxlite-master\tmxlite\src\tileset.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Tileset.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+	<ctype.h>
+
+1744387126 source:c:\fireboy watergirl\code\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<tmxlite/Map.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/Tileset.hpp>
+
+1744387126 source:c:\fireboy watergirl\codelv1\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<tmxlite/Map.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/Tileset.hpp>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\detail\pugixml.cpp
+	"pugixml.hpp"
+	<tmxlite/detail/Android.hpp>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<wchar.h>
+	<math.h>
+	<float.h>
+	<setjmp.h>
+	<istream>
+	<ostream>
+	<string>
+	<new>
+	<stdint.h>
+
+1744389313 c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\detail\pugixml.hpp
+	"pugiconfig.hpp"
+	<stddef.h>
+	<exception>
+	<iterator>
+	<iosfwd>
+	<string>
+
+1744389313 c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\detail\pugiconfig.hpp
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\imagelayer.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\layergroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\map.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Map.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/ImageLayer.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/LayerGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/detail/Android.hpp>
+	<queue>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\object.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Object.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/Map.hpp>
+	<tmxlite/Tileset.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\objectgroup.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectGroup.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\objecttypes.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/ObjectTypes.hpp>
+	<tmxlite/detail/Log.hpp>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\property.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Property.hpp>
+	<tmxlite/detail/Log.hpp>
+	<tmxlite/FreeFuncs.hpp>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\tilelayer.cpp
+	<pugixml.hpp>
+	<zstd.h>
+	"detail/pugixml.hpp"
+	<zstd.h>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/TileLayer.hpp>
+	<tmxlite/detail/Log.hpp>
+	<sstream>
+
+1744389313 source:c:\fireboy watergirl\codelv1\tmxlite-master\tmxlite\src\tileset.cpp
+	<pugixml.hpp>
+	"detail/pugixml.hpp"
+	<tmxlite/Tileset.hpp>
+	<tmxlite/FreeFuncs.hpp>
+	<tmxlite/detail/Log.hpp>
+	<ctype.h>
+
+1744391412 source:c:\fireboy watergirl\character.c
+
+1745497762 c:\fireboy watergirl\character.h
+	<SDL.h>
+	<vector>
+	<string>
+	<tmxlite/TileLayer.hpp>
+
+1745585671 source:c:\fireboy watergirl\character.cpp
+	"Character.h"
+	<SDL_image.h>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<tmxlite/TileLayer.hpp>
+	<cmath>
+
+1745591102 source:c:\fireboy watergirl\game.cpp
+	"game.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+
+1745545246 c:\fireboy watergirl\game.h
+	<SDL.h>
+	<vector>
+	<string>
+	<tmxlite/Map.hpp>
+	<tmxlite/TileLayer.hpp>
+	"Character.h"
+	"poison.h"
+	"diamond.h"
+	"MainMenu.h"
+	"GameOver.h"
+	"Timer.h"
+	"MenuState.h"
+	"highscore.h"
+
+1744784266 source:c:\fireboy watergirl\waterfire.cpp
+
+1744907397 c:\fireboy watergirl\animationfire.h
+	<SDL.h>
+	<vector>
+
+1745584936 source:c:\fireboy watergirl\poison.cpp
+	"poison.h"
+	<SDL.h>
+	<iostream>
+
+1745580324 c:\fireboy watergirl\poison.h
+	<SDL.h>
+	<tmxlite/TileLayer.hpp>
+	"Character.h"
+
+1745587942 c:\fireboy watergirl\gameover.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1745587942 source:c:\fireboy watergirl\gameover.cpp
+	"GameOver.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1745146820 c:\fireboy watergirl\gamestate.h
+
+1745337841 c:\fireboy watergirl\timer.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1745583142 source:c:\fireboy watergirl\timer.cpp
+	"Timer.h"
+	<iostream>
+
+1745588893 source:c:\fireboy watergirl\mainmenu.cpp
+	"MainMenu.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"MenuState.h"
+
+1745587942 c:\fireboy watergirl\mainmenu.h
+	"Highscore.h"
+	"Instructions.h"
+	"MenuState.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	<string>
+
+1745498404 c:\fireboy watergirl\diamond.h
+	<SDL.h>
+	<tmxlite/TileLayer.hpp>
+	<vector>
+	"character.h"
+
+1745498062 source:c:\fireboy watergirl\diamond.cpp
+	"Diamond.h"
+	<SDL.h>
+	<tmxlite/TileLayer.hpp>
+	<vector>
+	<iostream>
+
+1745588431 c:\fireboy watergirl\instructions.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"MenuState.h"
+
+1745588533 source:c:\fireboy watergirl\instructions.cpp
+	"Instructions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"MenuState.h"
+
+1745461775 c:\fireboy watergirl\menustate.h
+
+1745574623 c:\fireboy watergirl\highscore.h
+	"MenuState.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	<string>
+
+1745575008 source:c:\fireboy watergirl\highscore.cpp
+	"Highscore.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+
