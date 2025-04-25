@@ -20,7 +20,7 @@ bool GameOver::init(SDL_Renderer* renderer) {
     SDL_Color white = {205, 0, 0};
 
     // Tạo texture cho "GAME OVER"
-    SDL_Surface* gameOverSurface = TTF_RenderText_Solid(font, "GAME OVER", white);
+    SDL_Surface* gameOverSurface = TTF_RenderText_Solid(font, "GAME END", white);
     if (!gameOverSurface) {
         std::cerr << "Failed to create GameOver surface: " << TTF_GetError() << std::endl;
         return false;
