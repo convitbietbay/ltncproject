@@ -5,7 +5,7 @@
 - **Watergirl** chỉ có thể đi qua nước  
   Cả hai cần phối hợp để vượt qua các chướng ngại vật, thu thập kim cương và cùng đến cánh cửa an toàn.
 
-> Cảm hứng gốc từ game: (https://www.youtube.com/watch?v=abc_xyz)](https://www.youtube.com/watch?v=og0inOdAh8w)
+> Cảm hứng gốc từ game: (https://www.youtube.com/watch?v=og0inOdAh8w)
 
 ---
 
