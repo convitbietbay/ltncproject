@@ -67,7 +67,7 @@ Bước 2: Chọn file **fireboy watergirl.cbp**, sau đó ấn F8 để bắt �
 -Bạn vượt qua toàn bộ thử thách và đến cửa để điền tên: 
 ![image](https://github.com/user-attachments/assets/4517ee49-6f80-420a-b717-c2baccece3bf)
 -Màn hình sẽ hiện cho bạn replay hoặc về menu đầu tiên:
-![Screenshot 2025-04-26 020557](https://github.com/user-attachments/assets/46b95339-1cba-42a7-8228-6418607c3b62)
+![image](https://github.com/user-attachments/assets/343b94b1-be81-41dc-8246-eef9c53603bb)
 
 ## Đồ họa:
 -Nhân vật:
@@ -94,7 +94,8 @@ https://official-fireboy-watergirl.fandom.com/wiki/Fonts_Used_In_The_Game
 -Ở main menu, ấn I để xem hướng dẫn chi tiết về cách game vận hành.
 
 ## Thông tin hỗ trợ:
--Thư viện ngoài: Thư viện tmxlite, góp phần render map lên đơn giản và dễ dàng hơn.
+-Thư viện ngoài:
++>Thư viện tmxlite, góp phần Photoshop
 -Cơ chế: Xử lý va chạm theo các layer của map được up lên bằng tiled và tmxlite
 
 
