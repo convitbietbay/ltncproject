@@ -37,14 +37,14 @@ Bước 2: Chọn file **fireboy watergirl.cbp**, sau đó ấn F8 để bắt �
 
 ## Các thành phần trong game
 
-- [Nhân vật(Dành cho hai người chơi)]: Fireboy và Watergirl: Hai nhân vật bạn điều khiển để dành chiến thắng.
+- Nhân vật(Dành cho hai người chơi): Fireboy và Watergirl: Hai nhân vật bạn điều khiển để dành chiến thắng.
 ![fireboy](https://github.com/user-attachments/assets/5f14cbc6-09c8-4589-b574-28406fefbbe4)
 ![watergirl](https://github.com/user-attachments/assets/62161a33-07d5-4419-8cb9-c6b3882abf54)
-- [Các vùng chất lỏng]:
+- Các vùng chất lỏng:
 - Vùng lửa :Fireboy có thể di chuyển vào, watergirl không thể di chuyển vào. Nếu watergirl chạm vào vùng lửa trò chơi kết thúc.
 
 ![flake](https://github.com/user-attachments/assets/c489e158-9036-49d2-95e4-979a316e227f)
-- Vùng nướ:Watergirl có thể di chuyển vào, watergirl không thể di chuyển vào. Nếu fireboy chạm vào vùng lửa trò chơi kết thúc.
+- Vùng nước:Watergirl có thể di chuyển vào, watergirl không thể di chuyển vào. Nếu fireboy chạm vào vùng lửa trò chơi kết thúc.
 ![wlake](https://github.com/user-attachments/assets/e0ccce08-8485-4f40-a8db-75b54f6427b3)
 - Vùng độc:Cả hai nhân vật đều không chạm vào được. Nếu chạm vào nhân vật sẽ chết, trò chơi kết thúc.
 ![glake1](https://github.com/user-attachments/assets/cc7e98e7-0ac9-40fb-b8bf-5f980dcd4df7)
